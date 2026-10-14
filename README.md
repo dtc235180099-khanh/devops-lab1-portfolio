@@ -1,5 +1,5 @@
 # devops-lab1-portfolio
-Lab 1 — DevOps Course
+Lab 1 DevOps Course
 Dưới đây là bảng so sánh chi tiết giữa phương pháp triển khai thủ công (Traditional) và phương pháp tự động hóa bằng DevOps (CI/CD Pipeline) dựa trên trải nghiệm thực hành lab:
 
 | Tiêu chí | Cách THỦ CÔNG (Traditional) | Cách DEVOPS (CI/CD Pipeline) |
